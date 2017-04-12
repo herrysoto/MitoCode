@@ -32,6 +32,5 @@ public class Animal {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
-	
-	
+
 }
